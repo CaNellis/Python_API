@@ -1,1 +1,1 @@
-owm_api_key = "2f02eb0a62c958f93e6b74b9979631d0"
+owm_api_key = "783d73a91b381a073e635ad8e4987c07"
